@@ -1,0 +1,25 @@
+<!doctype html><html><head><meta charset="utf-8"><style>/*CSS*/</style></head><body>
+<div id="v"><div id="labs"></div><div id="tip"></div>
+<div class="pn" id="L">
+<h4>Buka / tutup</h4>
+<label>Tutup atas<input type="range" id="lid" min="0" max="1" step=".01" value="0"></label>
+<label>Pintu atomisasi<input type="range" id="door" min="0" max="1" step=".01" value="0"></label>
+<label>Pisahkan komponen<input type="range" id="ex" min="0" max="1" step=".01" value="0"></label>
+<div class="row"><button id="bo">Buka semua</button><button id="bc">Tutup semua</button></div>
+<h4>Tampilan</h4>
+<label class="ck"><input type="checkbox" id="xr"> Bedah komponen (X-ray)</label>
+<label class="ck"><input type="checkbox" id="lo" checked> Nama luar</label>
+<label class="ck"><input type="checkbox" id="li" checked> Nama dalam</label>
+<label class="ck"><input type="checkbox" id="bm" checked> Berkas cahaya</label>
+<h4>Pengapian</h4>
+<div class="row"><button id="on" class="g">▶ Nyalakan</button><button id="off" class="r">■ Matikan</button></div>
+<ol id="steps"></ol>
+<h4>Pengukuran</h4>
+<select id="sol"></select>
+<div class="row"><button id="m1">Hisap &amp; ukur</button><button id="mall">Jalankan semua</button></div>
+</div>
+<div class="pn" id="R"><div id="info"><b>Klik komponen</b> untuk melihat nama luar &amp; dalamnya.</div>
+<h4>Hasil ukur</h4><table id="res"><tr><th>Larutan</th><th>C</th><th>A</th><th>%T</th></tr></table></div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/three@0.128.0/build/three.min.js"></script>
+<script>/*DATA*/</script><script>/*JS*/</script></body></html>

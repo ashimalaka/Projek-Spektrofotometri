@@ -1,0 +1,16 @@
+[
+{"id":1,"outer":"Casing / Rumah Instrumen","fn":"Melindungi optik & atomisasi; punya tutup atas dan pintu ruang atomisasi.","inner":["Tutup atas (lid)","Pintu ruang atomisasi","Panel depan"]},
+{"id":2,"outer":"Hollow Cathode Lamp (HCL) Cu","fn":"Sumber cahaya yang memancarkan garis spesifik Cu 324,7 nm.","inner":["Soket / basis","Katoda berongga (Cu)","Anoda","Gas pengisi (Ne/Ar)","Jendela kuarsa","Turret lampu"]},
+{"id":3,"outer":"Wadah Sampel / Standar","fn":"Menampung larutan blanko, standar, atau sampel Cu²⁺.","inner":["Larutan Cu²⁺"]},
+{"id":4,"outer":"Nebulizer","fn":"Menghisap larutan dan mengubahnya menjadi aerosol halus.","inner":["Kapiler hisap","Nosel venturi","Impact bead"]},
+{"id":5,"outer":"Spray Chamber","fn":"Mencampur aerosol dengan gas; tetes besar dibuang ke drain.","inner":["Flow spoiler (baffle)","Selang drain"]},
+{"id":6,"outer":"Burner Head","fn":"Kepala pembakar slot 10 cm tempat nyala udara-asetilena.","inner":["Slot burner","Leher burner"]},
+{"id":7,"outer":"Saluran Gas","fn":"Mengalirkan oksidan (udara) dan bahan bakar (C₂H₂).","inner":["Selang udara (oksidan)","Selang asetilena (bahan bakar)"]},
+{"id":8,"outer":"Nyala (Flame)","fn":"Atomisasi: Cu²⁺ menjadi atom Cu⁰ yang menyerap cahaya 324,7 nm.","inner":["Zona primer","Zona interkonal (serapan)","Zona sekunder"]},
+{"id":9,"outer":"Monokromator","fn":"Memilih panjang gelombang 324,7 nm dan membuang cahaya lain.","inner":["Celah masuk","Cermin kolimator","Kisi difraksi","Cermin fokus","Celah keluar"]},
+{"id":10,"outer":"Detektor (PMT)","fn":"Mengubah intensitas cahaya menjadi sinyal listrik.","inner":["Fotokatoda","Dinoda","Anoda PMT"]},
+{"id":11,"outer":"Elektronik / Amplifier","fn":"Menguatkan sinyal dan mengubahnya menjadi digital.","inner":["Penguat lock-in","Konverter A/D"]},
+{"id":12,"outer":"Komputer & Perangkat Lunak","fn":"Menampilkan absorbansi, sinyal, dan konsentrasi.","inner":["Layar","Perangkat lunak AAS"]},
+{"id":13,"outer":"Exhaust Hood","fn":"Membuang gas hasil pembakaran dan uap logam.","inner":["Saluran buang (duct)","Kipas penghisap"]},
+{"id":14,"outer":"Botol Limbah","fn":"Menampung larutan berlebih dari drain.","inner":["Limbah cair"]}
+]
